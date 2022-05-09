@@ -1,0 +1,47 @@
+
+  h1{
+    font-size: 50px;
+    color: #35aa1e;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px;
+  }
+
+  .form-group{
+    width: 80%;
+    margin: auto;
+    margin-bottom: 30px;
+  }
+
+  label{
+    color: #405c60;
+    position: relative;
+    font-weight: 600;
+  }
+
+  input {
+    display: block;
+    padding: 8px 10px;
+    width: 100%;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+    background-color: #fff;
+    border: 1px solid #ced4da;
+    border-radius: 3px;
+}
+
+.form-button{
+    width: 90%;
+    margin:auto;
+    text-align: right;
+}
+
+button{
+    padding:8px 14px;
+    background-color: #35aa1e;
+    color: white;
+    border-color: #35aa1e;
+    border-radius: 2px;
+}
