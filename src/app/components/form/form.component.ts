@@ -9,6 +9,10 @@ export class FormComponent implements OnInit {
 
   constructor() { }
 
+  realizarLogin(){
+    alert('Login realizado');
+  }
+
   ngOnInit(): void {
   }
 
